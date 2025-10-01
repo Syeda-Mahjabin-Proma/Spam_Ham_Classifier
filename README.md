@@ -90,15 +90,6 @@ Sample shapes:
 
 ---
 
-## Future Improvements
-
-* Add more advanced NLP techniques (e.g., word embeddings, transformers)
-* Implement deep learning models like LSTM or BERT
-* Build a web or desktop application for real-time detection
-* Enhance dataset with more diverse spam examples
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
